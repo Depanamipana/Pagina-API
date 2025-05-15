@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-image: url(823154.jpg);
+    color: #ffeb3b;
+
+}
+  
+  #resultado {
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* fondo negro semitransparente */
+    padding: 10px;
+    border-radius: 10px;
+    color: #ffeb3b;
+    /* Hacer que todas las cartas tengan el mismo tamaño*/
+}
+  
+  .coctel {
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    width: 300px;
+  }
+  
+  .coctel img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
